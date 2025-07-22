@@ -28,8 +28,8 @@ Hi, I'm Abraham Mora!
 <br/>
 <p align="center">
 	<a href="https://github.com/Bouaskaoun">
-	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=bouaskaoun&show_icons=true" alt="bouaskaoun">
-	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=bouaskaoun" alt="bouaskaoun">
+	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=AbrahamM0&show_icons=true" alt="AbrahamM0">
+	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=AbrahamM0" alt="AbrahamM0">
 	</a>
 	<br/>
 </p>
@@ -39,15 +39,10 @@ Hi, I'm Abraham Mora!
 
 <p align="center">
 	<a href="https://github.com/Bouaskaoun">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bouaskaoun&langs_count=8&layout=compact" alt="bouaskaoun">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbrahamM0&langs_count=8&layout=compact" alt="AbrahamM0">
 	</a>
 	<br/>
 <br/>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
 <br/>
-
-<table style="border: none">
-  <tr>
-  <td width="50%" valign="top">
-
