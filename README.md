@@ -1,6 +1,6 @@
 <h1 align="center">
 Hi, I'm Abraham Mora!
-	<a href="https://github.com/Bouaskaoun" target="_self">
+	<a href="https://github.com/AbrahamM0" target="_self">
 		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 	</a>
 </h1>
@@ -27,7 +27,7 @@ Hi, I'm Abraham Mora!
 <summary><b>⚡ Bouaskaoun's Stats</b></summary>
 <br/>
 <p align="center">
-	<a href="https://github.com/Bouaskaoun">
+	<a href="https://github.com/AbrahamM0">
 	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=AbrahamM0&show_icons=true" alt="AbrahamM0">
 	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=AbrahamM0" alt="AbrahamM0">
 	</a>
@@ -38,7 +38,7 @@ Hi, I'm Abraham Mora!
 <br/>
 
 <p align="center">
-	<a href="https://github.com/Bouaskaoun">
+	<a href="https://github.com/AbrahamM0">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbrahamM0&langs_count=8&layout=compact" alt="AbrahamM0">
 	</a>
 	<br/>
